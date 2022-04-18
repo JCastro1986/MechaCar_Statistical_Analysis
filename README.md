@@ -108,5 +108,10 @@ Test the hypothesis
 - The significance level should be taken as 5% to mitigate type 1 error.
 - Take multiple samples to have points of comparison.
 - Test on one sample test of the mean of the samples if they correspond to the population.
-     
+ 
+ Neccesary data
+
+- We need the most data available posible to analyze and project trends.
+- The best is to have at least 10 years of information with specific location that is expressed to take it into consideration.
+- We need to understatnd big event that will affect our data. Take into consideration Covid-19 phase that hit the automovil industry, as well as other factors suchs as war, oil price increases, etc.
 
