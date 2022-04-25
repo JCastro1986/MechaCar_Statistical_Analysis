@@ -41,13 +41,12 @@ t.test(log10(lot1_test$PSI),mu=log10(1500))
 t.test(log10(lot2_test$PSI),mu=log10(1500))
 t.test(log10(lot3_test$PSI),mu=log10(1500))
 
-
 ## 3.1
 ## range ajust
-t.test(x=scoils$PSI, mu=1500) 
+t.test(x=dt_coil$PSI, mu=1500) 
 
 #Lot-1 t.test
-pop1 <- subset(dt_coil, Manufacturing_Lot=='Lot1')
+pop1 <- subset(c, Manufacturing_Lot=='Lot1')
 t.test(x=pop1$PSI, mu=1500)
 
 
@@ -58,5 +57,3 @@ t.test(x=pop2$PSI, mu=1500)
 #Lot-3 t.test
 pop3 <- subset(dt_coil, Manufacturing_Lot=='Lot3')
 t.test(x=pop3$PSI, mu=1500) 
-
-
