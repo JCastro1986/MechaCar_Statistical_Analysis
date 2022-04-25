@@ -16,11 +16,11 @@ Which variables/coefficients provided a non-random amount of variance to the mpg
 - The variable with the best relation is "vehicle_length". We can confirm with the scatter plot and in the correlation matrix.
 
 Image# 1
+![Image# 1](https://user-images.githubusercontent.com/95668609/165003759-43a43090-fc58-47fc-abd9-423864f45405.png)
 
-![Image# 1](https://user-images.githubusercontent.com/95668609/163744186-996ad18e-d4ce-4cf3-9860-69c4016bed58.png)
 
 Image# 2
-![Image# 2](https://user-images.githubusercontent.com/95668609/163744192-69cf8e26-b492-4c75-b47a-2f552d305bbf.png)
+![Image# 2](https://user-images.githubusercontent.com/95668609/165003767-b0b3cbe9-bfbd-49e6-bd60-dabfaf16a214.png)
 
 
 Is the slope of the linear model considered to be zero? Why or why not?
@@ -28,7 +28,7 @@ Is the slope of the linear model considered to be zero? Why or why not?
 - We have many values close to 0 and others not as close to 0 as the previous ones. So we can it depends on the coefficients you are looking at some are very close to 0.
 
 Image# 3
-![Image# 3](https://user-images.githubusercontent.com/95668609/163744199-6229bf0e-9e42-4ece-ae20-d99989c8ced9.png)
+![Image# 3](https://user-images.githubusercontent.com/95668609/165003773-ec177eaf-2929-4f06-a1d2-2a5c5c1e7271.png)
 
 
 Does this linear model predict mpg of MechaCar prototypes effectively? Why or why not?
@@ -37,7 +37,7 @@ Does this linear model predict mpg of MechaCar prototypes effectively? Why or wh
 * The r-squared is 0.7149, closer to 1 than 0.
 
 Image# 4
-![Image# 4](https://user-images.githubusercontent.com/95668609/163744210-add93417-1c46-45d4-8490-b5898da3e7e6.png)
+![Image# 4](https://user-images.githubusercontent.com/95668609/165003779-17ad6c6c-d916-4d5b-879c-9a7c769c7780.png)
 
 
 # Summary:  
@@ -51,13 +51,13 @@ The design specifications for the MechaCar suspension coils dictate that the var
 - Total summary indicates that the condition is not greater than 100 pounds per square inch.
 
 Image# 5
-![Image# 5](https://user-images.githubusercontent.com/95668609/163744216-6e23ab64-0ee4-474f-8e57-ea65cc66a567.png)
+![Image# 5](https://user-images.githubusercontent.com/95668609/165003784-9765c59f-e4c3-4b7d-afff-19fd8138759a.png)
 
 
 - When values are grouped by batch we realize that lot 3 is the only one that does not comply with the condition that is not greater than 100 pounds per square inch.
 
 Image# 6
-![Image# 6](https://user-images.githubusercontent.com/95668609/163744221-9430b3e6-36e2-495f-be84-0b48a56b8579.png)
+![Image# 6](https://user-images.githubusercontent.com/95668609/165003788-d7143bf8-f722-4166-aa68-016eadf66415.png)
 
 
 Does the current manufacturing data meet this design specification for all manufacturing lots in total and each lot individually? Why or why not?
@@ -69,13 +69,13 @@ Does the current manufacturing data meet this design specification for all manuf
 - If our significance level was the common 0.05 percent, our p-value general is above our significance level.
 
 Image# 7
-![Image# 7](https://user-images.githubusercontent.com/95668609/163744224-41c359d9-91a1-4ace-a3a8-b564328efe0e.png)
+![Image# 7 1](https://user-images.githubusercontent.com/95668609/165003800-558fcf8e-1339-4d51-b476-ee26ba3a09f0.png)
 
 
 - Looking at the data for each batch we can notice that one and two are statistically similar, however, the third is not.
 
 Image# 8
-![Image# 8](https://user-images.githubusercontent.com/95668609/163744229-38406b38-97ec-4aa0-b9bc-1b01d87716e4.png)
+![Image# 8 1](https://user-images.githubusercontent.com/95668609/165003809-42429cf6-76cb-47c3-93b4-38baf33566ec.png)
 
 
 ## Design a Study Comparing the MechaCar to the Competition
